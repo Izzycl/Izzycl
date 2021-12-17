@@ -9,7 +9,6 @@
 </div>
 <p  align="center" style="font-size: 13px; margin-bottom: -10px; margin-top: 1px">Front end 💻<p><p align="center" style="font-size: 13px; margin-bottom: -10px;">From nowhere. ⭐️<p>
 <p align="center">Actualmente trabajo en <a href="https://agilesoft.cl/">Agilesoft</a>.&nbsp; 🧑🏼‍🚀</p>
-<p align="center">La mayoría de mis proyectos en curso están en <a href="https://gitlab.com/dgodoy97">Gitlab</a>&nbsp;</p>
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Izzycl&show_icons=true&theme=dracula)
