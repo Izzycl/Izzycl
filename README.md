@@ -1,5 +1,7 @@
 <h4 align="center" style="font-weight: bold; display:flex; flex-direction: row; justify-content: center; align-items: center;">Hi there I'm Diego <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="20"/></h4>
+<center>
   <a href="https://www.linkedin.com/in/diego-godoy-70b79a139/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 99px; margin-right: 10px"/></a>
+  </center>
 
   
 </div>
