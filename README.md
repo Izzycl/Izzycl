@@ -1,8 +1,6 @@
 <h4 align="center" style="font-weight: bold; display:flex; flex-direction: row; justify-content: center; align-items: center;">Hi there I'm Diego <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="20"/></h4>
-<div align="center">
-  <a href="https://twitter.com/DiegoNash01"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="width: 90px; margin-right: 10px"/></a>
   <a href="https://www.linkedin.com/in/diego-godoy-70b79a139/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 99px; margin-right: 10px"/></a>
-  <a href="https://steamcommunity.com/id/nobie_cl/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="width: 80px; margin-right: 10px;"/></a>
+
   
 </div>
 <p  align="center" style="font-size: 13px; margin-bottom: -10px; margin-top: 1px">Front end 💻<p><p align="center" style="font-size: 13px; margin-bottom: -10px;">From nowhere. ⭐️<p>
